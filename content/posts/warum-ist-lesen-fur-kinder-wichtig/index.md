@@ -3,7 +3,7 @@ title = "Warum ist lesen für Kinder wichtig "
 date = "2023-03-20"
 draft = false
 pinned = false
-tags = ["deutschlesen"]
+tags = ["deutsch", "lesen"]
 image = "people-2595510_1920.jpg"
 +++
 ### Gesteigerte Intelligenz durch das Lesen
