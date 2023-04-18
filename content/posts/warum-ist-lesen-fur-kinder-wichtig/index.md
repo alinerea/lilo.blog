@@ -14,4 +14,8 @@ Durch das Lesen von Büchern erlangen Kinder ständig neues Wissen und erweitern
 
 > Lesen regt das Gehirn dazu an, ständig neue Synapsen zu bilden und neu zu verknüpfen. Somit fällt es Kindern leichter, **Zusammenhänge in Texten zu verstehen**. 
 
+{{<box>}}
+
 Darüber hinaus trägt die verbesserte Vernetzung des Gehirns dazu bei, Aufgaben und Fragestellungen leichter zu bewältigen. Kinder, die viel lesen, zeigen aufgrund dieser Fähigkeit häufig **bessere schulische Leistungen** – nicht nur in Deutsch oder Sprachen, sondern auch in anderen Fächern wie Mathematik.
+
+{{</box>}}
