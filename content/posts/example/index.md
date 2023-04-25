@@ -66,4 +66,18 @@ Eine Drittperson gewährt Einblick in die Geschichte und Gefühle einer gewaltbe
 
 Nach der Geburt des zweiten Kindes ging sie mit dem Kind zur Kontrolle beim Kinderarzt. Dieser merkte, dass etwas nicht stimmte und fragte, ob bei ihr Zuhause alles in Ordnung sei. Als sie daraufhin verneinte, bekam sie die Nummer der AppElle-Hotline und konnte noch beim Arzt die Fachstelle anrufen, von welcher sie Beratung erhielt. Das war der erste Schritt, um eine Lösung für ihre Situation zu finden. So kam sie ins Frauenhaus. Auf die Frage, wie das Leben für sie im Frauenhaus jetzt sei und wie es ihren Kindern gehe, antwortete sie: 
 
-«Wir haben alle ein eigenes Zimmer mit den Kindern \[…]. Es gibt eine grosse Küche, wo jeden Tag eine Frau am Mittag für alle kocht, und da essen wir zusammen. Es gibt ein grosses Spielzimmer für die Kinder und es gibt ein grosses Wohnzimmer \[…]. Seit wir im Frauenhaus sind, fällt mir auf, dass es meinem zweijährigen Kind viel besser geht und es auch mutiger ist \[…], es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.»
+> «Wir haben alle ein eigenes Zimmer mit den Kindern \[…]. Es gibt eine grosse Küche, wo jeden Tag eine Frau am Mittag für alle kocht, und da essen wir zusammen. Es gibt ein grosses Spielzimmer für die Kinder und es gibt ein grosses Wohnzimmer \[…]. Seit wir im Frauenhaus sind, fällt mir auf, dass es meinem zweijährigen Kind viel besser geht und es auch mutiger ist \[…], es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.»
+
+Auf die Frage, wie man einer betroffenen Person am besten helfen kann, erklärte die Fachberaterin des Frauenhauses:
+
+> «Aussenstehende können eine betroffene Person in dieser schweren Situation unterstützen, indem sie ihr aktiv zuhören, ihre Situation ernstnehmen und ihr klar sagen, dass solches Verhalten nicht in Ordnung ist und es Unterstützungsangebote gibt. Letztendlich liegt es jedoch in der Hand der betroffenen Person, den Schritt aus der Beziehung zu machen. Wenn Kinder von der Gewaltbeziehung betroffen sind, muss das Kindswohl über der Entscheidung der Mutter stehen, und es ist daher immer richtig, eine Meldung bei der KESB zu machen.» 
+
+{{<box>}}
+
+KESB:
+
+{{</box>}}
+
+Dasselbe gilt auch, wenn eine betroffene Person akut gefährdet ist, in dem Fall sollten die Polizei (117) oder der Notruf (144) informiert werden.
+
+Grundsätzlich ist es wichtig, die Wünsche und Entscheidungen der betroffenen Person zu respektieren. Auch wenn eine Person keine Hilfe annehmen möchte, sollte man das akzeptieren. Veränderungen brauchen Zeit und es ist wichtig, geduldig zu sein, damit sich die Betroffene mit der Situation auseinandersetzen kann. Das bedeutet nicht, die Person völlig sich selbst zu überlassen. Weiterhin Unterstützung anzubieten und für die Person da zu sein, ist auf jeden Fall wichtig.
