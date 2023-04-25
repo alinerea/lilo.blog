@@ -27,21 +27,21 @@ Wir sprechen von häuslicher Gewalt, wenn Personen innerhalb einer bestehenden o
 Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlichkeiten bis zur Tötung. Dazu einige Beispiele:
 
 * Gegenstände nachwerfen
-* stossen, packen, schütteln, beissen
+* Stossen, packen, schütteln, beissen
 * Ohrfeigen, Fusstritte, Faustschläge
-* verprügeln
+* Verprügeln
 * Waffen ziehen
-* mit Werkzeugen zuschlagen, mit Messer zustossen, schiessen
+* Mit Werkzeugen zuschlagen, mit Messer zustossen, schiessen
 
 Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine ebenso ernsthafte Gefährdung dar. Darunter fallen beispielsweise:
 
-* schwere Drohungen
+* Schwere Drohungen
 * Nötigung
 * Freiheitsberaubung
 * Stalking (belästigen, verfolgen, nachstellen, beobachten, bedrohen)
-* diskriminierende Gewalt (konsequent missachten, andauernd beschimpfen, verleumden, vernachlässigen)
-* soziale Gewalt (bevormunden, öffentlich demütigen, isolieren)
-* ökonomische Gewalt (kein Haushaltungsgeld geben, nicht arbeiten lassen, Verdienst in Beschlag nehmen)
+* Diskriminierende Gewalt (konsequent missachten, andauernd beschimpfen, verleumden, vernachlässigen)
+* Soziale Gewalt (bevormunden, öffentlich demütigen, isolieren)
+* Ökonomische Gewalt (kein Haushaltungsgeld geben, nicht arbeiten lassen, Verdienst in Beschlag nehmen)
 
 Sexualisierte Gewalt ist jede Form von unerwünschter oder erzwungener Handlung und grenzverletzendem Verhalten mit sexuellem Bezug.\
 \
