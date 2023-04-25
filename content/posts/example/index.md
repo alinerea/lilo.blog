@@ -1,5 +1,5 @@
 +++
-title = "Example Post"
+title = "Frauenhaus"
 date = "2023-01-01"
 draft = true
 pinned = false
