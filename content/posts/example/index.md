@@ -20,7 +20,7 @@ Wie wir sehen, ist häusliche und sexualisierte Gewalt überhaupt nichts Neues u
 
 > «Das kann ein Freund, ein Familienmitglied, ein:e Kolleg:in, ein:e Arzt:in oder ein:e Lehrer:in sein.»
 
-BOX
+{{<box>}}
 
 Definition von häuslicher Gewalt, nach der Stiftung gegen Gewalt an Frauen und Kindern:
 
@@ -49,4 +49,4 @@ Sexualisierte Gewalt ist jede Form von unerwünschter oder erzwungener Handlung 
 \
 Sexualisierte Gewalt an Kinder definieren wir als «sexuelle Ausbeutung». Diese beinhaltet alle Formen von sexuellen Handlungen an Kindern und Jugendlichen durch Erwachsene.
 
-BOX
+{{</box>}}
