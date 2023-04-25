@@ -49,11 +49,8 @@ Sexualisierte Gewalt an Kinder definieren wir als «sexuelle Ausbeutung». Diese
 
 {{</box>}}
 
-Gründe:
+Studien zeigen, dass häusliche Gewalt häufig durch Eifersucht und das Verlangen des Täters, die Frau zu besitzen, entsteht. Dazu kommt der Wunsch nach einwandfreien «Hausfrauendiensten» (wozu auch die sexuelle Verfügbarkeit der Frau zählt) und der Versuch, die männliche Überlegenheit zu demonstrieren.
 
-* Studien zeigen, dass häusliche Gewalt häufig ausgelöst wird durch die Eifersucht und das Verlangen des Täters, die Frau zu besitzen: ausserdem von dem Wunsch nach einwandfreien «Hausfraudiensten» (wozu auch die sexuelle Verfügbarkeit der Frau zählt) und nicht zuletzt, um die männliche Überlegenheit zu demonstrieren.
-* Sexuelle Unzufriedenheit
-* größere Verletzlichkeit und Wehrlosigkeit der Frau
 * Meistens beginnt die Gewalt damit, dass eine Person eine Art Kontrolle über die Beziehung ausübt. Diese Person begegnet ihrer Partnerin/ihrem Partner nicht mehr auf Augenhöhe, sondern versucht, sie oder ihn herabzusetzen, um so die eigenen Interessen durchzusetzen.
 * Neben Stress zählen Krisen und Belastungen in der Familie zu den Risikofaktoren für Gewalt an Kindern und Lebenspartnern. Dabei kann es sich um Stress handeln, der von den Kindern verursacht wird, oder um persönlichen, finanziellen und beruflichen Stress. Dies bestätigte sich während der Corona-Krise sehr stark
 * Auch bekannt ist, dass Mädchen welche Gewalt erlebt haben, eine höhere Tendenz haben zum Opfer zu werden und Jungen eher zum Täter von Gewalt werden
