@@ -65,7 +65,11 @@ Die Fachberaterin erklärt, wie man einer betroffenen Person in dieser Situation
 
 {{<box>}}
 
-KESB:
+Die Kindes- und Erwachsenenschutzbehörde (KESB) hat die gesetzliche Aufgabe, den Schutz von gefährdeten Kindern und Erwachsenen sicherzustellen. Eltern werden, wenn nötig, in der Betreuung und Erziehung ihrer Kinder unterstützt. Bei Erwachsenen handelt es sich um den Schutz von Menschen in einer Gefährdungssituation, die Hilfestellungen benötigen.
+
+Jede Person kann sich an die KESB wenden, wenn sie die Gefährdung eines Kindes oder einer erwachsenen Person vermutet. Erhält die KESB eine Meldung über eine Gefährdungssituation, dann prüft sie, ob ein Unterstützungsbedarf besteht und wie geholfen werden kann. Die KESB klärt die Situation ab, trifft Entscheidungen und kann Schutzmassnahmen anordnen und überwachen. Gegen die Entscheide der KESB kann Beschwerde erhoben werden. Die KESB handelt immer dann, wenn die Familie oder andere Angebote die nötige Unterstützung nicht mehr gewährleisten können.
+
+[Direktion für Inneres und Justiz - Startseite KESB (be.ch)](https://www.kesb.dij.be.ch/de/start.html)
 
 {{</box>}}
 
