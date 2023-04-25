@@ -51,3 +51,14 @@ Sexualisierte Gewalt ist jede Form von unerwünschter oder erzwungener Handlung 
 Sexualisierte Gewalt an Kinder definieren wir als «sexuelle Ausbeutung». Diese beinhaltet alle Formen von sexuellen Handlungen an Kindern und Jugendlichen durch Erwachsene.
 
 {{</box>}}
+
+Gründe:
+
+* Studien zeigen, dass häusliche Gewalt häufig ausgelöst wird durch die Eifersucht und das Verlangen des Täters, die Frau zu besitzen: ausserdem von dem Wunsch nach einwandfreien «Hausfraudiensten» (wozu auch die sexuelle Verfügbarkeit der Frau zählt) und nicht zuletzt, um die männliche Überlegenheit zu demonstrieren.
+* Sexuelle Unzufriedenheit
+* größere Verletzlichkeit und Wehrlosigkeit der Frau
+* Meistens beginnt die Gewalt damit, dass eine Person eine Art Kontrolle über die Beziehung ausübt. Diese Person begegnet ihrer Partnerin/ihrem Partner nicht mehr auf Augenhöhe, sondern versucht, sie oder ihn herabzusetzen, um so die eigenen Interessen durchzusetzen.
+* Neben Stress zählen Krisen und Belastungen in der Familie zu den Risikofaktoren für Gewalt an Kindern und Lebenspartnern. Dabei kann es sich um Stress handeln, der von den Kindern verursacht wird, oder um persönlichen, finanziellen und beruflichen Stress. Dies bestätigte sich während der Corona-Krise sehr stark
+* Auch bekannt ist, dass Mädchen welche Gewalt erlebt haben, eine höhere Tendenz haben zum Opfer zu werden und Jungen eher zum Täter von Gewalt werden
+
+Eine Drittperson gewährt Einblick in die Geschichte und Gefühle einer gewaltbetroffenen Frau.  Sie beschreibt, dass sie vor drei Jahren ohne Sprachkenntnisse und ohne Geld in die Schweiz geholt wurde und sich ihr Leben mit der Geburt des ersten Kindes sehr verändert habe. «Vor der Geburt des zweiten Kindes überlegte ich lange, was ich für Möglichkeiten habe. Mein Mann war schon da gewalttätig und ich habe aber gewusst, ich habe niemanden hier. Ich habe keine Familie, keine Freunde, ich war auch immer drin, ich konnte die Sprache nicht lernen \[…]. Ich habe auch nicht gewusst, was es für Möglichkeiten gibt.» Nach der Geburt des zweiten Kindes ging sie mit dem Kind zur Kontrolle beim Kinderarzt. Dieser merkte, dass etwas nicht stimmte und fragte, ob bei ihr Zuhause alles in Ordnung sei. Als sie daraufhin verneinte, bekam sie die Nummer der AppElle-Hotline und konnte noch beim Arzt die Fachstelle anrufen, von welcher sie Beratung erhielt. Das war der erste Schritt, um eine Lösung für ihre Situation zu finden. So kam sie ins Frauenhaus.
