@@ -28,10 +28,8 @@ Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlic
 
 * Gegenstände nachwerfen
 * Stossen, packen, schütteln, beissen
-* Ohrfeigen, Fusstritte, Faustschläge
-* Verprügeln
-* Waffen ziehen
-* Mit Werkzeugen zuschlagen, mit Messer zustossen, schiessen
+* Ohrfeigen, Fusstritte, Faustschläge, Verprügeln
+* Waffen ziehen, mit Werkzeugen zuschlagen, mit Messer zustossen, schiessen
 
 Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine ebenso ernsthafte Gefährdung dar. Darunter fallen beispielsweise:
 
