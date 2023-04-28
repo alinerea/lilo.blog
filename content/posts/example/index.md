@@ -20,6 +20,8 @@ Im Jahr 1978 gründeten Frauen der Frauenbewegung Bern den Verein «Schutz für 
 
 {{<box>}}
 
+(Herunterbrechen des Inhalts, erst Definition allgemein, wenn es im Text vorkommt die drei verschiedenen Arten bringen)
+
 Definition von häuslicher Gewalt, nach der Stiftung gegen Gewalt an Frauen und Kindern:
 
 Wir sprechen von häuslicher Gewalt, wenn Personen innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung physische, psychische oder sexualisierte Gewalt ausüben oder androhen. Es geht also um Verhaltensmuster, die darauf abzielen, eine Person zu kontrollieren und zu dominieren.
