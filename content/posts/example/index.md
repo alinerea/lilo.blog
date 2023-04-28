@@ -57,6 +57,8 @@ Studien zeigen, dass häusliche Gewalt häufig durch Eifersucht und das Verlange
 
 Eine Drittperson gewährt Einblick in die Geschichte und Gefühle einer gewaltbetroffenen Frau. Sie beschreibt, dass sie vor drei Jahren ohne Sprachkenntnisse und ohne Geld in die Schweiz geholt wurde und sich ihr Leben mit der Geburt des ersten Kindes sehr verändert habe. 
 
+(Ausrisszitate mit "Zitat" anmerken, muss nicht Teil des Textes sein welcher war -> einleitung für neuen Abschnitt wo das ausriss Zitat grob/genauer erläutert wird)
+
 > «Vor der Geburt des zweiten Kindes überlegte ich lange, was ich für Möglichkeiten habe. Mein Mann war schon da gewalttätig und ich habe aber gewusst, ich habe niemanden hier. Ich habe keine Familie, keine Freunde, ich war auch immer drin, ich konnte die Sprache nicht lernen \[…]. Ich habe auch nicht gewusst, was es für Möglichkeiten gibt.» 
 
 Nach der Geburt des zweiten Kindes ging sie mit dem Kind zur Kontrolle beim Kinderarzt. Dieser merkte, dass etwas nicht stimmte und fragte, ob bei ihr Zuhause alles in Ordnung sei. Als sie daraufhin verneinte, bekam sie die Nummer der AppElle-Hotline und konnte noch beim Arzt die Fachstelle anrufen, von welcher sie Beratung erhielt. Das war der erste Schritt, um eine Lösung für ihre Situation zu finden. So kam sie ins Frauenhaus. Auf die Frage, wie das Leben für sie im Frauenhaus jetzt sei und wie es ihren Kindern gehe, antwortet sie: 
