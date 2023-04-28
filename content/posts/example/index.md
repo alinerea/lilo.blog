@@ -14,7 +14,7 @@ footnotes = ""
 
 {{<lead>}}
 
-(Anfang umschreiben, Frage aus dem Satz bilden, mehr anziehend, knapper)
+(Anfang umschreiben, Frage aus dem Satz bilden, mehr anziehend, knapper, nur die wichtigsten Dinge erwähnen und was auch in der Reportage vorkommt, Männer und Gewalt erst am Ende anbringen)
 
 
 In dieser Reportage wird die Definition von Gewalt und dessen Ursprung erläutert. Zudem wurden eine betroffene Frau und eine Fachberaterin interviewt, welche Stellung nehmen und Einblick in das Thema gewähren. Was an dieser Stelle wichtig zu erwähnen ist: auch Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung betroffen sein, jedoch kommt dies seltener vor, weswegen ich mich in meiner Reportage auf Frauen und Kinder beschränkt habe. Im Frauenhaus werden die betroffenen Frauen als Klientinnen benannt, weshalb ich diesen Begriff hier auch verwenden werde. Mit der Errichtung des ersten Frauenhauses, wollte man die Sicherheit der Frauen garantieren und somit werden seither weder der Standort noch die Namen der Mitarbeiter:innen oder Bewohnerinnen preisgegeben.
@@ -78,3 +78,5 @@ Jede Person kann sich an die KESB wenden, wenn sie die Gefährdung eines Kindes 
 Dasselbe gilt auch, wenn eine betroffene Person akut gefährdet ist, in dem Fall sollten die Polizei (117) oder der Notruf (144) informiert werden.
 
 Grundsätzlich ist es wichtig, die Wünsche und Entscheidungen der betroffenen Person zu respektieren. Auch wenn eine Person keine Hilfe annehmen möchte, sollte man das akzeptieren. Veränderungen brauchen Zeit und es ist wichtig, geduldig zu sein, damit sich die Betroffene mit der Situation auseinandersetzen kann. Das bedeutet nicht, die Person völlig sich selbst zu überlassen. Weiterhin Unterstützung anzubieten und für die Person da zu sein, ist auf jeden Fall wichtig.
+
+(Links welche wichtig sind, auch für Männer am Schluss angeben)
