@@ -13,6 +13,10 @@ footnotes = ""
 #### Häusliche und sexualisierte Gewalt
 
 {{<lead>}}
+
+(Anfang umschreiben, Frage aus dem Satz bilden, mehr anziehend, knapper)
+
+
 In dieser Reportage wird die Definition von Gewalt und dessen Ursprung erläutert. Zudem wurden eine betroffene Frau und eine Fachberaterin interviewt, welche Stellung nehmen und Einblick in das Thema gewähren. Was an dieser Stelle wichtig zu erwähnen ist: auch Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung betroffen sein, jedoch kommt dies seltener vor, weswegen ich mich in meiner Reportage auf Frauen und Kinder beschränkt habe. Im Frauenhaus werden die betroffenen Frauen als Klientinnen benannt, weshalb ich diesen Begriff hier auch verwenden werde. Mit der Errichtung des ersten Frauenhauses, wollte man die Sicherheit der Frauen garantieren und somit werden seither weder der Standort noch die Namen der Mitarbeiter:innen oder Bewohnerinnen preisgegeben.
 {{</lead>}}
 
