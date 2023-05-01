@@ -14,7 +14,8 @@ footnotes = ""
 
 {{<lead>}}
 
-Was ist Gewalt und wo hat sie ihren Ursprung? Dazu wurden eine betroffene Frau und eine Fachberaterin interviewt, welche Stellung nehmen und Einblick in das Thema der häuslichen Gewalt gewähren. Im Frauenhaus werden die betroffenen Frauen als Klientinnen benannt, weshalb dieser Begriff auch hier verwendet wird. Mit der Errichtung des ersten Frauenhauses, soll die Sicherheit der Frauen garantieren werden. Seither ist weder der Standort, noch die Namen der Mitarbeiter:innen oder Bewohnerinnen für die Öffentlichkeit bekannt.
+Was ist Gewalt und wo hat sie ihren Ursprung? Dazu wurden eine betroffene Frau und eine Fachberaterin interviewt, welche Stellung nehmen und Einblick in das Thema der häuslichen Gewalt gewähren. Im Frauenhaus werden die betroffenen Frauen als Klientinnen benannt, weshalb dieser Begriff auch hier verwendet wird. Mit der Errichtung des ersten Frauenhauses, soll die Sicherheit der Frauen garantieren werden. Seither ist weder der Standort noch die Namen der Mitarbeiter:innen oder Bewohnerinnen für die Öffentlichkeit bekannt.
+
 {{</lead>}}
 
 (Anfang umschreiben, Frage aus dem Satz bilden, mehr anziehend, knapper, nur die wichtigsten Dinge erwähnen und was auch in der Reportage vorkommt, Männer und Gewalt erst am Ende anbringen)
