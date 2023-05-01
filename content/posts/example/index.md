@@ -25,7 +25,8 @@ Wie wir sehen, ist häusliche und sexualisierte Gewalt nichts Neues und doch wir
 
 {{<box>}}
 Definition von häuslicher Gewalt, nach der Stiftung gegen Gewalt an Frauen und Kindern:
-Wir sprechen von häuslicher Gewalt, wenn Personen innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung physische, psychische oder sexualisierte Gewalt ausüben oder androhen. Es geht also um Verhaltensmuster, die darauf abzielen, eine Person zu kontrollieren und zu dominieren. Sexualisierte Gewalt ist jede Form von unerwünschter oder erzwungener Handlung und grenzverletzendem Verhalten mit sexuellem Bezug.
+Wir sprechen von häuslicher Gewalt, wenn Personen innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung physische, psychische oder sexualisierte Gewalt ausüben oder androhen. 
+Es geht also um Verhaltensmuster, die darauf abzielen, eine Person zu kontrollieren und zu dominieren. Sexualisierte Gewalt ist jede Form von unerwünschter oder erzwungener Handlung und grenzverletzendem Verhalten mit sexuellem Bezug.
 Sexualisierte Gewalt an Kinder definieren wir als «sexuelle Ausbeutung». Diese beinhaltet alle Formen von sexuellen Handlungen an Kindern und Jugendlichen durch Erwachsene.
 {{</box>}}
 
