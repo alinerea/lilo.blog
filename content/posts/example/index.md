@@ -84,6 +84,6 @@ Grundsätzlich ist es wichtig, die Wünsche und Entscheidungen der betroffenen P
 
 Was an dieser Stelle wichtig zu erwähnen ist: auch Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung betroffen sein, jedoch kommt dies seltener vor, weswegen ich mich in meiner Reportage auf Frauen und Kinder beschränkt habe. 
 
-Wenn Sie mit jeglicher Art dieser Gewalt in Kontakt gekommen sind bzw. betroffen sind gibt es hier verschiedene Möglichkeiten bei welchen Sie sich melden können:
+Wenn Sie mit jeglicher Art dieser Gewalt in Kontakt gekommen sind bzw. betroffen sind gibt es hier verschiedene Möglichkeiten bei welchen Sie sich melden können und Hilfe bekommen:
 
 {{</box>}}
