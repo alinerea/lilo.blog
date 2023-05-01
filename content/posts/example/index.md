@@ -8,13 +8,11 @@ image = ""
 description = ""
 footnotes = ""
 +++
-# Titel
+# Wann muss man eingreifen?
 
 #### Häusliche und sexualisierte Gewalt
 
 {{<lead>}}
-
-(Anfang umschreiben, Frage aus dem Satz bilden, mehr anziehend, knapper, nur die wichtigsten Dinge erwähnen und was auch in der Reportage vorkommt, Männer und Gewalt erst am Ende anbringen)
 
 Was ist Gewalt und wo hat sie ihren Ursprung? Dazu wurden eine betroffene Frau und eine Fachberaterin interviewt, welche Stellung nehmen und Einblick in das Thema der häuslichen Gewalt gewähren. Im Frauenhaus werden die betroffenen Frauen als Klientinnen benannt, weshalb ich diesen Begriff hier auch verwenden werde. Mit der Errichtung des ersten Frauenhauses, wollte man die Sicherheit der Frauen garantieren und somit werden seither weder der Standort noch die Namen der Mitarbeiter:innen oder Bewohnerinnen preisgegeben.
 {{</lead>}}
