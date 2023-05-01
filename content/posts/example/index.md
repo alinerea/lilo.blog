@@ -13,9 +13,7 @@ footnotes = ""
 #### Häusliche und sexualisierte Gewalt
 
 {{<lead>}}
-
 Was ist Gewalt und wo hat sie ihren Ursprung? Dazu wurden eine betroffene Frau und eine Fachberaterin interviewt, welche Stellung nehmen und Einblick in das Thema der häuslichen Gewalt gewähren. Im Frauenhaus werden die betroffenen Frauen als Klientinnen benannt, weshalb dieser Begriff auch hier verwendet wird. Mit der Errichtung des ersten Frauenhauses, soll die Sicherheit der Frauen garantieren werden. Seither ist weder der Standort noch die Namen der Mitarbeiter:innen oder Bewohnerinnen für die Öffentlichkeit bekannt.
-
 {{</lead>}}
 
 (Anfang umschreiben, Frage aus dem Satz bilden, mehr anziehend, knapper, nur die wichtigsten Dinge erwähnen und was auch in der Reportage vorkommt, Männer und Gewalt erst am Ende anbringen)
@@ -26,14 +24,9 @@ Wie wir sehen, ist häusliche und sexualisierte Gewalt nichts Neues und doch wir
 > Während der Coronapandemie waren wir völlig überlastet.
 
 {{<box>}}
-
-(Herunterbrechen des Inhalts, erst Definition allgemein, wenn es im Text vorkommt die drei verschiedenen Arten bringen)
-
 Definition von häuslicher Gewalt, nach der Stiftung gegen Gewalt an Frauen und Kindern:
-
-Wir sprechen von häuslicher Gewalt, wenn Personen innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung physische, psychische oder sexualisierte Gewalt ausüben oder androhen. Es geht also um Verhaltensmuster, die darauf abzielen, eine Person zu kontrollieren und zu dominieren. Sexualisierte Gewalt ist jede Form von unerwünschter oder erzwungener Handlung und grenzverletzendem Verhalten mit sexuellem Bezug.\
+Wir sprechen von häuslicher Gewalt, wenn Personen innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung physische, psychische oder sexualisierte Gewalt ausüben oder androhen. Es geht also um Verhaltensmuster, die darauf abzielen, eine Person zu kontrollieren und zu dominieren. Sexualisierte Gewalt ist jede Form von unerwünschter oder erzwungener Handlung und grenzverletzendem Verhalten mit sexuellem Bezug.
 Sexualisierte Gewalt an Kinder definieren wir als «sexuelle Ausbeutung». Diese beinhaltet alle Formen von sexuellen Handlungen an Kindern und Jugendlichen durch Erwachsene.
-
 {{</box>}}
 
 Studien zeigen, dass häusliche Gewalt häufig durch Eifersucht und das Verlangen des Täters, die Frau zu besitzen, entsteht. Dazu kommt der Wunsch nach einwandfreien «Hausfrauendiensten», wozu auch die sexuelle Verfügbarkeit der Frau zählt, und der Versuch, die männliche Überlegenheit zu demonstrieren. Meistens beginnt Gewalt damit, dass eine Person eine Art Kontrolle über die Beziehung ausübt. Diese Person begegnet ihrem Gegenüber nicht mehr auf Augenhöhe, sondern versucht sie herabzusetzen, um so die eigenen Interessen durchzusetzen. Neben Stress und Unzufriedenheiten zählen Krisen und Belastungen in der Familie zu den Risikofaktoren für Gewalt an Kindern und Lebenspartner:innen. Dabei kann es sich um Belastungen handeln, die von Kindern verursacht werden, oder um persönliche, finanzielle und berufliche Schwierigkeiten. Während der Corona-Krise war dies deutlich spürbar. Auch bekannt ist, dass Mädchen, die Gewalt erlebt haben dazu tendieren, erneut zum Opfer zu werden. Knaben, welchen Gewalt widerfahren ist, werden eher zu Verursachern von Gewalt.
@@ -43,7 +36,6 @@ Studien zeigen, dass häusliche Gewalt häufig durch Eifersucht und das Verlange
 Eine Drittperson gewährt Einblick in die Geschichte und Gefühle einer gewaltbetroffenen Frau. Sie beschreibt, dass sie vor drei Jahren ohne Sprachkenntnisse und ohne Geld in die Schweiz geholt wurde und sich ihr Leben mit der Geburt des ersten Kindes sehr verändert habe. «Vor der Geburt des zweiten Kindes überlegte ich lange, was ich für Möglichkeiten habe. Mein Mann war schon da gewalttätig und ich habe aber gewusst, ich habe niemanden hier. Ich habe keine Familie, keine Freunde, ich war auch immer drin, ich konnte die Sprache nicht lernen \[…]. Ich habe auch nicht gewusst, was es für Möglichkeiten gibt.» 
 
 {{<box>}}
-
 Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine ebenso ernsthafte Gefährdung dar. Darunter fallen beispielsweise:
 
 * Schwere Drohungen
@@ -53,20 +45,17 @@ Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine
 * Diskriminierende Gewalt (konsequent missachten, andauernd beschimpfen, verleumden, vernachlässigen)
 * Soziale Gewalt (bevormunden, öffentlich demütigen, isolieren)
 * Ökonomische Gewalt (kein Haushaltungsgeld geben, nicht arbeiten lassen, Verdienst in Beschlag nehmen)
-
 {{</box>}}
 
 Nach der Geburt des zweiten Kindes ging sie mit dem Kind zur Kontrolle beim Kinderarzt. Dieser merkte, dass etwas nicht stimmte und fragte, ob bei ihr Zuhause alles in Ordnung sei. Als sie daraufhin verneinte, bekam sie die Nummer der AppElle-Hotline und konnte noch beim Arzt die Fachstelle anrufen, von welcher sie Beratung erhielt. Das war der erste Schritt, um eine Lösung für ihre Situation zu finden. So kam sie ins Frauenhaus. Auf die Frage, wie das Leben für sie im Frauenhaus jetzt sei und wie es ihren Kindern gehe, antwortet sie: «Wir haben alle ein eigenes Zimmer mit den Kindern \[…]. Es gibt eine grosse Küche, wo jeden Tag eine Frau am Mittag für alle kocht, und da essen wir zusammen. Es gibt ein grosses Spielzimmer für die Kinder und es gibt ein grosses Wohnzimmer \[…]. Seit wir im Frauenhaus sind, fällt mir auf, dass es meinem zweijährigen Kind viel besser geht und es auch mutiger ist \[…], es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.»
 
 {{<box>}}
-
 Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlichkeiten bis zur Tötung. Dazu einige Beispiele:
 
 * Gegenstände nachwerfen
 * Stossen, packen, schütteln, beissen
 * Ohrfeigen, Fusstritte, Faustschläge, Verprügeln
 * Waffen ziehen, mit Werkzeugen zuschlagen, mit Messer zustossen, schiessen
-
 {{</box>}}
 
 (Ausrisszitate mit "Zitat" anmerken, muss nicht Teil des Textes sein welcher war -> einleitung für neuen Abschnitt wo das ausriss Zitat grob/genauer erläutert wird) 
@@ -74,25 +63,19 @@ Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlic
 Die Fachberaterin erklärt, wie man einer betroffenen Person in dieser Situation am besten helfen kann: «Aussenstehende können eine betroffene Person in dieser schweren Situation unterstützen, indem sie ihr aktiv zuhören, ihre Situation Ernst nehmen und ihr klar sagen, dass solches Verhalten nicht in Ordnung ist und es Unterstützungsangebote gibt. Letztendlich liegt es jedoch in der Hand der betroffenen Person, den Schritt aus der Beziehung zu machen. Wenn Kinder von der Gewaltbeziehung betroffen sind, muss das Kindswohl über der Entscheidung der Mutter stehen, und es ist daher immer richtig, eine Meldung bei der KESB zu machen.» 
 
 {{<box>}}
-
 Die Kindes- und Erwachsenenschutzbehörde (KESB) hat die gesetzliche Aufgabe, den Schutz von gefährdeten Kindern und Erwachsenen sicherzustellen. Bei Erwachsenen handelt es sich um den Schutz von Menschen in einer Gefährdungssituation, die Hilfestellungen benötigen.
 
 Jede Person kann sich an die KESB wenden, wenn sie die Gefährdung eines Kindes oder einer erwachsenen Person vermutet. Erhält die KESB eine Meldung über eine Gefährdungssituation, dann prüft sie, ob ein Unterstützungsbedarf besteht und wie geholfen werden kann. Die KESB klärt die Situation ab, trifft Entscheidungen und kann Schutzmassnahmen anordnen und überwachen. Die KESB handelt immer dann, wenn die Familie oder andere Angebote die nötige Unterstützung nicht mehr gewährleisten können.
 
 [Direktion für Inneres und Justiz - Startseite KESB (be.ch)](https://www.kesb.dij.be.ch/de/start.html)
-
 {{</box>}}
 
 Dasselbe gilt auch, wenn eine betroffene Person akut gefährdet ist, in dem Fall sollten die Polizei (117) oder der Notruf (144) informiert werden.
 
 Grundsätzlich ist es wichtig, die Wünsche und Entscheidungen der betroffenen Person zu respektieren. Auch wenn eine Person keine Hilfe annehmen möchte, sollte man das akzeptieren. Veränderungen brauchen Zeit und es ist wichtig, geduldig zu sein, damit sich die Betroffene mit der Situation auseinandersetzen kann. Das bedeutet nicht, die Person völlig sich selbst zu überlassen. Weiterhin Unterstützung anzubieten und für die Person da zu sein, ist auf jeden Fall wichtig.
 
-(Links welche wichtig sind, auch für Männer am Schluss angeben)
-
 {{<box>}} 
-
 Was an dieser Stelle wichtig zu erwähnen ist: auch Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung betroffen sein, jedoch kommt dies seltener vor, weswegen ich mich in meiner Reportage auf Frauen und Kinder beschränkt habe. 
 
 Wenn Sie mit jeglicher Art dieser Gewalt in Kontakt gekommen sind bzw. betroffen sind gibt es hier verschiedene Möglichkeiten bei welchen Sie sich melden können und Hilfe bekommen:
-
 {{</box>}}
