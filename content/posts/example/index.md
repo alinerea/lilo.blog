@@ -29,17 +29,7 @@ Im Jahr 1978 gründeten Frauen der Frauenbewegung Bern den Verein «Schutz für 
 
 Definition von häuslicher Gewalt, nach der Stiftung gegen Gewalt an Frauen und Kindern:
 
-Wir sprechen von häuslicher Gewalt, wenn Personen innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung physische, psychische oder sexualisierte Gewalt ausüben oder androhen. Es geht also um Verhaltensmuster, die darauf abzielen, eine Person zu kontrollieren und zu dominieren.
-
-Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlichkeiten bis zur Tötung. Dazu einige Beispiele:
-
-* Gegenstände nachwerfen
-* Stossen, packen, schütteln, beissen
-* Ohrfeigen, Fusstritte, Faustschläge, Verprügeln
-* Waffen ziehen, mit Werkzeugen zuschlagen, mit Messer zustossen, schiessen
-
-Sexualisierte Gewalt ist jede Form von unerwünschter oder erzwungener Handlung und grenzverletzendem Verhalten mit sexuellem Bezug.\
-\
+Wir sprechen von häuslicher Gewalt, wenn Personen innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung physische, psychische oder sexualisierte Gewalt ausüben oder androhen. Es geht also um Verhaltensmuster, die darauf abzielen, eine Person zu kontrollieren und zu dominieren. Sexualisierte Gewalt ist jede Form von unerwünschter oder erzwungener Handlung und grenzverletzendem Verhalten mit sexuellem Bezug.\
 Sexualisierte Gewalt an Kinder definieren wir als «sexuelle Ausbeutung». Diese beinhaltet alle Formen von sexuellen Handlungen an Kindern und Jugendlichen durch Erwachsene.
 
 {{</box>}}
@@ -65,6 +55,17 @@ Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine
 {{</box>}}
 
 Nach der Geburt des zweiten Kindes ging sie mit dem Kind zur Kontrolle beim Kinderarzt. Dieser merkte, dass etwas nicht stimmte und fragte, ob bei ihr Zuhause alles in Ordnung sei. Als sie daraufhin verneinte, bekam sie die Nummer der AppElle-Hotline und konnte noch beim Arzt die Fachstelle anrufen, von welcher sie Beratung erhielt. Das war der erste Schritt, um eine Lösung für ihre Situation zu finden. So kam sie ins Frauenhaus. Auf die Frage, wie das Leben für sie im Frauenhaus jetzt sei und wie es ihren Kindern gehe, antwortet sie: «Wir haben alle ein eigenes Zimmer mit den Kindern \[…]. Es gibt eine grosse Küche, wo jeden Tag eine Frau am Mittag für alle kocht, und da essen wir zusammen. Es gibt ein grosses Spielzimmer für die Kinder und es gibt ein grosses Wohnzimmer \[…]. Seit wir im Frauenhaus sind, fällt mir auf, dass es meinem zweijährigen Kind viel besser geht und es auch mutiger ist \[…], es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.»
+
+{{<box>}}
+
+Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlichkeiten bis zur Tötung. Dazu einige Beispiele:
+
+* Gegenstände nachwerfen
+* Stossen, packen, schütteln, beissen
+* Ohrfeigen, Fusstritte, Faustschläge, Verprügeln
+* Waffen ziehen, mit Werkzeugen zuschlagen, mit Messer zustossen, schiessen
+
+{{</box>}}
 
 (Ausrisszitate mit "Zitat" anmerken, muss nicht Teil des Textes sein welcher war -> einleitung für neuen Abschnitt wo das ausriss Zitat grob/genauer erläutert wird) 
 
