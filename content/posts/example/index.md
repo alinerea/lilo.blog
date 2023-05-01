@@ -62,7 +62,6 @@ Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlic
 (Ausrisszitate mit "Zitat" anmerken, muss nicht Teil des Textes sein welcher war -> einleitung für neuen Abschnitt wo das ausriss Zitat grob/genauer erläutert wird) 
 
 Die Fachberaterin erklärt, wie man einer betroffenen Person in dieser Situation am besten helfen kann: «Aussenstehende können eine betroffene Person in dieser schweren Situation unterstützen, indem sie ihr aktiv zuhören, ihre Situation Ernst nehmen und ihr klar sagen, dass solches Verhalten nicht in Ordnung ist und es Unterstützungsangebote gibt. Letztendlich liegt es jedoch in der Hand der betroffenen Person, den Schritt aus der Beziehung zu machen. Wenn Kinder von der Gewaltbeziehung betroffen sind, muss das Kindswohl über der Entscheidung der Mutter stehen, und es ist daher immer richtig, eine Meldung bei der KESB zu machen.» 
-
 {{<box>}}
 Die Kindes- und Erwachsenenschutzbehörde (KESB) hat die gesetzliche Aufgabe, den Schutz von gefährdeten Kindern und Erwachsenen sicherzustellen. Bei Erwachsenen handelt es sich um den Schutz von Menschen in einer Gefährdungssituation, die Hilfestellungen benötigen.
 
@@ -70,11 +69,9 @@ Jede Person kann sich an die KESB wenden, wenn sie die Gefährdung eines Kindes 
 
 [Direktion für Inneres und Justiz - Startseite KESB (be.ch)](https://www.kesb.dij.be.ch/de/start.html)
 {{</box>}}
-
 Dasselbe gilt auch, wenn eine betroffene Person akut gefährdet ist, in dem Fall sollten die Polizei (117) oder der Notruf (144) informiert werden.
 
 Grundsätzlich ist es wichtig, die Wünsche und Entscheidungen der betroffenen Person zu respektieren. Auch wenn eine Person keine Hilfe annehmen möchte, sollte man das akzeptieren. Veränderungen brauchen Zeit und es ist wichtig, geduldig zu sein, damit sich die Betroffene mit der Situation auseinandersetzen kann. Das bedeutet nicht, die Person völlig sich selbst zu überlassen. Weiterhin Unterstützung anzubieten und für die Person da zu sein, ist auf jeden Fall wichtig.
-
 {{<box>}} 
 Was an dieser Stelle wichtig zu erwähnen ist: auch Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung betroffen sein, jedoch kommt dies seltener vor, weswegen ich mich in meiner Reportage auf Frauen und Kinder beschränkt habe. 
 
