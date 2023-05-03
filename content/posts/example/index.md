@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Reportage", "DomesticViolence", "HäuslicheGewalt", "Frauenhaus"]
 image = ""
-description = "Einblicke in häusliche und sexualisierte Gewalt und wie man damit umgehen kann"
+description = "Einblick in die Folgen von häuslicher und sexualisierter Gewalt und Hilfestellung zum Umgang damit"
 footnotes = ""
 +++
 # Unlebbares lesbar machen
