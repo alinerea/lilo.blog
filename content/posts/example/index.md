@@ -13,7 +13,7 @@ footnotes = ""
 #### Häusliche und sexualisierte Gewalt
 
 {{<lead>}}
-Warum ist Gewalt so stark präsent in unserer heutigen Gesellschaft? Antworten auf diese Frage aus der Sicht einer Fachberaterin und einer betroffenen Person.
+Warum ist Gewalt so stark präsent in unserer heutigen Gesellschaft? Folgen und Antworten auf diese Frage aus der Sicht einer Fachberaterin und einer betroffenen Person.
 {{</lead>}}
 
  Eine betroffene Frau und eine Fachberaterin geben Auskunft. Mit der Errichtung des ersten Frauenhauses, soll die Sicherheit der Frauen garantiert werden. Seither ist weder der Standort noch die Namen der Mitarbeiter:innen oder Bewohnerinnen für die Öffentlichkeit bekannt.
