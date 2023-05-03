@@ -86,7 +86,7 @@ Was an dieser Stelle wichtig zu erwähnen ist: auch Männer können von Gewalt i
 Wenn Sie mit jeglicher Art dieser Gewalt in Kontakt gekommen sind bzw. betroffen sind gibt es hier verschiedene Möglichkeiten bei welchen Sie sich melden können und Hilfe bekommen:
 
 * [Start - Opferhilfe Schweiz (opferhilfe-schweiz.ch)](https://www.opferhilfe-schweiz.ch/de/)
-* [Frauenhaus Bern (stiftung-gegen-gewalt.ch)](https://stiftung-gegen-gewalt.ch/wsp/de/fachstellen/frauenhaus-bern/)\
+* [Frauenhaus Bern (stiftung-gegen-gewalt.ch)](https://stiftung-gegen-gewalt.ch/wsp/de/fachstellen/frauenhaus-bern/)
 * [AppElle! – die 24h-Hotline der Berner Frauenhäuser (stiftung-gegen-gewalt.ch)](https://stiftung-gegen-gewalt.ch/wsp/de/appelle/)
 * [Zwueschehalt | Damit Mann weiss wohin](https://www.zwueschehalt.ch/)
 
