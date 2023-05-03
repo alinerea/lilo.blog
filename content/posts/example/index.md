@@ -65,7 +65,9 @@ Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlic
 
 > Während der Coronapandemie waren wir völlig überlastet. 
 
-ABSCHNITT CORONA
+ABSCHNITT CORONA:
+
+Die COVID-19-Pandemie und die damit verbundenen Einschränkungen haben tatsächlich zu einem Anstieg der häuslichen Gewalt geführt. Die Schliessung von Schulen, Arbeitsplätzen und anderen öffentlichen Einrichtungen hat dazu geführt, dass Opfer von Gewalt häufig gezwungen waren, mit ihren Tätern in einem engen Raum zusammenzuleben, was das Risiko von Gewalttaten erhöht hat. Gleichzeitig haben die wirtschaftlichen Auswirkungen der Pandemie bei einigen Menschen Stress und Unsicherheit verursacht, was das Risiko von Gewalttaten weiter erhöht hat.
 
 > Wenn Kinder von der Gewaltbeziehung betroffen sind, muss das Kindswohl über der Entscheidung der Mutter stehen.
 
