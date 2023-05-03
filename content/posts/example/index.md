@@ -1,5 +1,5 @@
 +++
-title = "Frauenhaus"
+title = "Unlebbares lesbar machen"
 date = "2023-04-25"
 draft = false
 pinned = false
@@ -8,8 +8,6 @@ image = ""
 description = "Einblick in die Folgen von häuslicher und sexualisierter Gewalt und Hilfestellung zum Umgang damit"
 footnotes = ""
 +++
-# Unlebbares lesbar machen
-
 #### Häusliche und sexualisierte Gewalt
 
 {{<lead>}}
