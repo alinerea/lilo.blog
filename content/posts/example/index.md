@@ -13,7 +13,7 @@ footnotes = ""
 #### Häusliche und sexualisierte Gewalt
 
 {{<lead>}}
-Warum ist Gewalt immer noch so stark präsent in unserer heutigen Gesellschaft? Dazu wurden eine betroffene Frau und eine Fachberaterin interviewt, welche Stellung nehmen und Einblick in das Thema der häuslichen Gewalt gewähren. Im Frauenhaus werden die betroffenen Frauen als Klientinnen benannt, weshalb dieser Begriff auch hier verwendet wird. Mit der Errichtung des ersten Frauenhauses, soll die Sicherheit der Frauen garantieren werden. Seither ist weder der Standort noch die Namen der Mitarbeiter:innen oder Bewohnerinnen für die Öffentlichkeit bekannt.
+Warum ist Gewalt immer noch so stark präsent in unserer heutigen Gesellschaft? Eine betroffene Frau und eine Fachberaterin geben Auskunft. Im Frauenhaus werden die betroffenen Frauen als Klientinnen benannt, weshalb dieser Begriff auch hier verwendet wird. Mit der Errichtung des ersten Frauenhauses, soll die Sicherheit der Frauen garantieren werden. Seither ist weder der Standort noch die Namen der Mitarbeiter:innen oder Bewohnerinnen für die Öffentlichkeit bekannt.
 {{</lead>}}
 
 Im Jahr 1978 wurde der Verein «Schutz für misshandelte Frauen und ihrer Kinder Bern» gegründet. Zwei Jahre später, 1980, erschuf der Verein die «Stiftung Frauenhaus Bern». Im selben Jahr noch wurde das erste Frauenhaus eröffnet. Fast zehn Jahre später übernahm die Stiftung auch die Führung der damaligen Beratungsstelle für vergewaltigte Frauen und Mädchen, heute «Lantana». Im Jahr 1996 folgte die Umbenennung des Vereins in «Stiftung gegen Gewalt an Frauen und Kindern». Seit Beginn 2005 arbeitet das Frauenhaus Thun – Berner Oberland und die Stiftung «Vista» mit der «Stiftung gegen Gewalt an Frauen und Kindern» zusammen. 
