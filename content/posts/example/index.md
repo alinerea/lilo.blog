@@ -59,6 +59,8 @@ Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlic
 
 {{</box>}}
 
+> Letztendlich liegt es jedoch in der Hand der betroffenen Person, den Schritt aus der Beziehung zu machen.
+
 Die Fachberaterin erklärt, wie man einer betroffenen Person in dieser Situation am besten helfen kann: «Aussenstehende können eine betroffene Person in dieser schweren Situation unterstützen, indem sie ihr aktiv zuhören, ihre Situation Ernst nehmen und ihr klar sagen, dass solches Verhalten nicht in Ordnung ist und es Unterstützungsangebote gibt. Letztendlich liegt es jedoch in der Hand der betroffenen Person, den Schritt aus der Beziehung zu machen. Wenn Kinder von der Gewaltbeziehung betroffen sind, muss das Kindswohl über der Entscheidung der Mutter stehen, und es ist daher immer richtig, eine Meldung bei der KESB zu machen.» 
 {{<box>}}
 Die Kindes- und Erwachsenenschutzbehörde (KESB) hat die gesetzliche Aufgabe, den Schutz von gefährdeten Kindern und Erwachsenen sicherzustellen. Bei Erwachsenen handelt es sich um den Schutz von Menschen in einer Gefährdungssituation, die Hilfestellungen benötigen.
