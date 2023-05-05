@@ -65,7 +65,7 @@ Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlic
 
 {{</box>}}
 
-> *Wenn Kinder von der Gewaltbeziehung betroffen sind, muss das Kindswohl über der Entscheidung der Mutter stehen.*
+> «*Wenn Kinder von der Gewaltbeziehung betroffen sind, muss das Kindswohl über der Entscheidung der Mutter stehen.*»
 
 Die Fachberaterin erklärt, wie man einer betroffenen Person in dieser Situation am besten helfen kann: «Aussenstehende können eine betroffene Person in dieser schweren Situation unterstützen, indem sie ihr aktiv zuhören, ihre Situation Ernst nehmen und ihr klar sagen, dass solches Verhalten nicht in Ordnung ist und es Unterstützungsangebote gibt. Letztendlich liegt es jedoch in der Hand der betroffenen Person, den Schritt aus der Beziehung zu machen. Wenn Kinder von der Gewaltbeziehung betroffen sind, muss das Kindswohl über der Entscheidung der Mutter stehen, und es ist daher immer richtig, eine Meldung bei der KESB zu machen.» 
 {{<box>}}
