@@ -85,7 +85,7 @@ Dasselbe gilt auch, wenn eine betroffene Person akut gefährdet ist, in dem Fall
 
 Grundsätzlich ist es wichtig, die Wünsche und Entscheidungen der betroffenen Person zu respektieren. Auch wenn eine Person keine Hilfe annehmen möchte, sollte man das akzeptieren. Veränderungen brauchen Zeit und es ist wichtig, geduldig zu sein, damit sich die Betroffene mit der Situation auseinandersetzen kann. Das bedeutet nicht, die Person völlig sich selbst zu überlassen. Weiterhin Unterstützung anzubieten und für die Person da zu sein, ist auf jeden Fall wichtig.
 {{<box>}} 
-Was an dieser Stelle wichtig zu erwähnen ist: auch Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung betroffen sein, jedoch kommt dies seltener vor, weswegen ich mich in meiner Reportage auf Frauen und Kinder beschränkt habe. 
+Was an dieser Stelle auch wichtig zu erwähnen ist: Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung genauso betroffen sein, jedoch kommt dies seltener vor, weswegen in dieser Reportage nur auf Frauen und Kinder Bezug genommen wurde. 
 
 Wenn Sie mit jeglicher Art dieser Gewalt in Kontakt gekommen sind bzw. betroffen sind gibt es hier verschiedene Möglichkeiten bei welchen Sie sich melden können und Hilfe bekommen:
 
