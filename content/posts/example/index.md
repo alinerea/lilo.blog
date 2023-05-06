@@ -1,5 +1,5 @@
 +++
-title = "es dumms schnäbi"
+title = "Unlebbares lesbar machen"
 date = "2023-05-05"
 draft = true
 pinned = false
