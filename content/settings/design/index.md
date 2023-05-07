@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/c66c137c-a313-4234-962e-a51cdfc4e2cb.jpg"
-logo = "/media/c66c137c-a313-4234-962e-a51cdfc4e2cb.jpg"
-image = "/media/c66c137c-a313-4234-962e-a51cdfc4e2cb.jpg"
+icon = "/media/d63bc542-0802-4f83-86b3-9ee2c3d0f6e2.jpg"
+logo = "/media/82f0697a-b565-49ca-bfcd-7b09d8397da5.jpg"
+image = "/media/82f0697a-b565-49ca-bfcd-7b09d8397da5.jpg"
 color = "#e19cf6"
 +++
