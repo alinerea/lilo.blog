@@ -51,8 +51,6 @@ Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine
 
 {{</box>}}
 
-
-
 >  «*Es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.*»
 
 Nach der Geburt des zweiten Kindes ging sie mit dem Kind zur Kontrolle beim Kinderarzt. Dieser merkte, dass etwas nicht stimmte und fragte, ob bei ihr Zuhause alles in Ordnung sei. Als sie daraufhin verneinte, bekam sie die Nummer der AppElle-Hotline und konnte noch beim Arzt die Fachstelle anrufen, von welcher sie Beratung erhielt. Das war der erste Schritt, um eine Lösung für ihre Situation zu finden. So kam sie ins Frauenhaus. Auf die Frage, wie das Leben für sie im Frauenhaus jetzt sei und wie es ihren Kindern gehe, antwortet sie: «Wir haben alle ein eigenes Zimmer mit den Kindern \[…]. Es gibt eine grosse Küche, wo jeden Tag eine Frau am Mittag für alle kocht, und da essen wir zusammen. Es gibt ein grosses Spielzimmer für die Kinder und es gibt ein grosses Wohnzimmer \[…]. Seit wir im Frauenhaus sind, fällt mir auf, dass es meinem zweijährigen Kind viel besser geht und es auch mutiger ist \[…]. Es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.»
