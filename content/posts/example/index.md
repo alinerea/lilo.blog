@@ -14,7 +14,7 @@ footnotes = ""
 Warum ist Gewalt so stark präsent in unserer heutigen Gesellschaft? Was sind die Ursachen? Wie können betroffene Personen Hilfe bekommen? Unter den Massnahmen von Covid-19 hat sich die Situation dramatisch verschlechtert. Dieser Artikel versucht ein Thema zugänglich zu machen, welches sich oftmals innerhalb der eigenen vier Wände versteckt hält.
 {{</lead>}}
 
-![©️ Rea Kedves](rea-bild_-reportage.jpg)
+![©️ Rea Kedves](rea-bild_-reportage-1-.jpg)
 
 Im Jahr 1978 wurde der Verein «Schutz für misshandelte Frauen und ihrer Kinder Bern» gegründet. Zwei Jahre später, 1980, erschuf der Verein die «Stiftung Frauenhaus Bern». Im selben Jahr noch wurde das erste Frauenhaus eröffnet. Mit der Errichtung des ersten Frauenhauses soll man die Sicherheit der Frauen garantieren können. Dies bedeutet, dass weder der Standort noch die Namen der Mitarbeiter:innen oder der Bewohnerinnen für die Öffentlichkeit bekannt sind. Fast zehn Jahre später übernahm die Stiftung auch die Führung der damaligen Beratungsstelle für vergewaltigte Frauen und Mädchen, heute «Lantana». Im Jahr 1996 folgte die Umbenennung des Vereins in «Stiftung gegen Gewalt an Frauen und Kindern». Seit Beginn 2005 arbeitet das Frauenhaus Thun – Berner Oberland und die Stiftung «Vista» mit der «Stiftung gegen Gewalt an Frauen und Kindern» zusammen.
 
