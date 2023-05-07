@@ -27,7 +27,7 @@ Es geht also um Verhaltensmuster, die darauf abzielen, eine Person zu kontrollie
 Sexualisierte Gewalt an Kinder definieren wir als «sexuelle Ausbeutung». Diese beinhaltet alle Formen von sexuellen Handlungen an Kindern und Jugendlichen durch Erwachsene.
 {{</box>}}
 
-#### Warum ist Gewalt an Frauen allgegenwärtig in unserer Gesellschaft?
+##### Warum ist Gewalt an Frauen allgegenwärtig in unserer Gesellschaft?
 
 Studien zeigen, dass häusliche Gewalt häufig durch Eifersucht und das Verlangen des Täters, die Frau zu besitzen, entsteht. Dazu kommt der Wunsch nach einwandfreien «Hausfrauendiensten», wozu auch die sexuelle Verfügbarkeit der Frau zählt, und der Versuch, die männliche Überlegenheit zu demonstrieren. Meistens beginnt Gewalt damit, dass eine Person eine Art Kontrolle über die Beziehung ausübt. Finanzielle Abhängigkeit oder Abhängigkeit von pflegebedürftigen Personen können dieses Kontrollverhalten begünstigen. Oft spielt auch der Konsum von Alkohol und Drogen eine Rolle. Neben Stress und Unzufriedenheiten zählen Krisen und Belastungen in der Familie zu den Risikofaktoren für Gewalt an Kindern und Lebenspartner:innen. Dabei kann es sich um Belastungen handeln, die von Kindern verursacht werden, oder um persönliche, finanzielle und berufliche Schwierigkeiten. Auch bekannt ist, dass Mädchen, die Gewalt erlebt haben dazu tendieren, erneut zum Opfer zu werden. Knaben, welchen Gewalt widerfahren ist, werden eher zu Verursachern von Gewalt.
 
@@ -48,7 +48,7 @@ Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine
 
 {{</box>}}
 
-#### Auswirkung der Covid-Pandemie auf häusliche und sexualisierte Gewalt
+##### Auswirkung der Covid-Pandemie auf häusliche und sexualisierte Gewalt
 
 Die COVID-19-Pandemie und die damit verbundenen Einschränkungen haben gemäss Fachpersonen zu einem Anstieg der häuslichen Gewalt geführt. Jedoch zeigen die Kriminalstatistiken des Kanton Berns keine signifikante Erhöhung von Gewalttaten im häuslichen Bereich. Dies liegt unter anderem daran, dass die Straftaten gemeldet und polizeilich registriert werden müssen. Die Schliessung von Schulen, Arbeitsplätzen und anderen öffentlichen Einrichtungen hat dazu geführt, dass Opfer von Gewalt häufig gezwungen waren, mit den Tätern auf engem Raum zusammenzuleben, was das Risiko von Gewalttaten erhöht hat. Gleichzeitig haben die wirtschaftlichen Auswirkungen der Pandemie bei einigen Menschen Stress und Unsicherheit verursacht.
 
