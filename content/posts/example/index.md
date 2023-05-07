@@ -1,7 +1,7 @@
 +++
 title = "Unlebbares lesbar machen"
 date = "2023-05-05"
-draft = true
+draft = false
 pinned = false
 tags = ["Reportage", "DomesticViolence", "HäuslicheGewalt", "Frauenhaus"]
 image = "rea-bild_-reportage.jpg"
@@ -29,7 +29,7 @@ Es geht also um Verhaltensmuster, die darauf abzielen, eine Person zu kontrollie
 Sexualisierte Gewalt an Kinder definieren wir als «sexuelle Ausbeutung». Diese beinhaltet alle Formen von sexuellen Handlungen an Kindern und Jugendlichen durch Erwachsene.
 {{</box>}}
 
-Studien zeigen, dass häusliche Gewalt häufig durch Eifersucht und das Verlangen des Täters, die Frau zu besitzen, entsteht. Dazu kommt der Wunsch nach einwandfreien «Hausfrauendiensten», wozu auch die sexuelle Verfügbarkeit der Frau zählt, und der Versuch, die männliche Überlegenheit zu demonstrieren. Meistens beginnt Gewalt damit, dass eine Person eine Art Kontrolle über die Beziehung ausübt. *Finanzielle Abhängigkeit oder Abhängigkeit von pflegebedürftigen Personen können diese Kontrollbeziehung begünstigen*. Oft spielt auch der Konsum von Alkohol und Drogen eine Rolle. Neben Stress und Unzufriedenheiten zählen Krisen und Belastungen in der Familie zu den Risikofaktoren für Gewalt an Kindern und Lebenspartner:innen. Dabei kann es sich um Belastungen handeln, die von Kindern verursacht werden, oder um persönliche, finanzielle und berufliche Schwierigkeiten. Auch bekannt ist, dass Mädchen, die Gewalt erlebt haben dazu tendieren, erneut zum Opfer zu werden. Knaben, welchen Gewalt widerfahren ist, werden eher zu Verursachern von Gewalt.
+Studien zeigen, dass häusliche Gewalt häufig durch Eifersucht und das Verlangen des Täters, die Frau zu besitzen, entsteht. Dazu kommt der Wunsch nach einwandfreien «Hausfrauendiensten», wozu auch die sexuelle Verfügbarkeit der Frau zählt, und der Versuch, die männliche Überlegenheit zu demonstrieren. Meistens beginnt Gewalt damit, dass eine Person eine Art Kontrolle über die Beziehung ausübt. Finanzielle Abhängigkeit oder Abhängigkeit von pflegebedürftigen Personen können diese Kontrollbeziehung begünstigen. Oft spielt auch der Konsum von Alkohol und Drogen eine Rolle. Neben Stress und Unzufriedenheiten zählen Krisen und Belastungen in der Familie zu den Risikofaktoren für Gewalt an Kindern und Lebenspartner:innen. Dabei kann es sich um Belastungen handeln, die von Kindern verursacht werden, oder um persönliche, finanzielle und berufliche Schwierigkeiten. Auch bekannt ist, dass Mädchen, die Gewalt erlebt haben dazu tendieren, erneut zum Opfer zu werden. Knaben, welchen Gewalt widerfahren ist, werden eher zu Verursachern von Gewalt.
 
 > «*Ich konnte die Sprache nicht lernen.*»
 
@@ -54,7 +54,7 @@ Die COVID-19-Pandemie und die damit verbundenen Einschränkungen haben zu einem 
 
 >  «*Es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.*»
 
-Nach der Geburt des zweiten Kindes ging sie mit dem Neugeborenen zur Kontrolle beim Kinderarzt. Dieser merkte, dass etwas nicht stimmte und fragte, ob bei ihr Zuhause alles in Ordnung sei. Als sie daraufhin verneinte, bekam sie die Nummer der AppElle-Hotline und konnte noch beim Arzt die Fachstelle anrufen, von welcher sie Beratung erhielt. Das war der erste Schritt, um eine Lösung für ihre Situation zu finden. *So kam sie ins Frauenhaus*. Auf die Frage, wie das Leben für sie im Frauenhaus jetzt sei und wie es ihren Kindern gehe, antwortet sie: «Wir haben alle ein eigenes Zimmer mit den Kindern \[…]. Es gibt eine grosse Küche, wo jeden Tag eine Frau am Mittag für alle kocht, und da essen wir zusammen. Es gibt ein grosses Spielzimmer für die Kinder und es gibt ein grosses Wohnzimmer \[…]. Seit wir im Frauenhaus sind, fällt mir auf, dass es meinem zweijährigen Kind viel besser geht und es auch mutiger ist \[…]. Es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.»
+Nach der Geburt des zweiten Kindes ging sie mit dem Neugeborenen zur Kontrolle beim Kinderarzt. Dieser merkte, dass etwas nicht stimmte und fragte, ob bei ihr Zuhause alles in Ordnung sei. Als sie daraufhin verneinte, bekam sie die Nummer der AppElle-Hotline und konnte noch beim Arzt die Fachstelle anrufen, von welcher sie Beratung erhielt. Das war der erste Schritt, um eine Lösung für ihre Situation zu finden. Auf die Frage, wie das Leben für sie im Frauenhaus jetzt sei und wie es ihren Kindern gehe, antwortet sie: «Wir haben alle ein eigenes Zimmer mit den Kindern \[…]. Es gibt eine grosse Küche, wo jeden Tag eine Frau am Mittag für alle kocht, und da essen wir zusammen. Es gibt ein grosses Spielzimmer für die Kinder und es gibt ein grosses Wohnzimmer \[…]. Seit wir im Frauenhaus sind, fällt mir auf, dass es meinem zweijährigen Kind viel besser geht und es auch mutiger ist \[…]. Es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.»
 
 {{<box>}}
 Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlichkeiten bis zur Tötung. Dazu einige Beispiele:
@@ -76,17 +76,18 @@ Jede Person kann sich an die KESB wenden, wenn sie die Gefährdung eines Kindes 
 
 [Direktion für Inneres und Justiz - Startseite KESB (be.ch)](https://www.kesb.dij.be.ch/de/start.html)
 {{</box>}}
-*Dasselbe gilt auch, wenn eine betroffene Person akut gefährdet ist, in dem Fall sollten die Polizei (117) oder der Notruf (144) informiert werden.*
+Dasselbe gilt auch, wenn eine betroffene Person akut gefährdet ist, in dem Fall sollten die Polizei (117) oder der Notruf (144) informiert werden.
 
 Grundsätzlich ist es wichtig, die Wünsche und Entscheidungen der betroffenen Person zu respektieren. Auch wenn eine Person keine Hilfe annehmen möchte, sollte man das akzeptieren. Veränderungen brauchen Zeit und es ist wichtig, geduldig zu sein, damit sich die Betroffene mit der Situation auseinandersetzen kann. Das bedeutet nicht, die Person völlig sich selbst zu überlassen. Weiterhin Unterstützung anzubieten und für die Person da zu sein, ist auf jeden Fall wichtig.
 {{<box>}} 
 Was an dieser Stelle wichtig zu erwähnen ist: Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung genauso betroffen sein, jedoch kommt dies seltener vor, weswegen in dieser Reportage nur auf Frauen und Kinder Bezug genommen wurde. 
 
-*Wenn Sie mit jeglicher Art dieser Gewalt in Kontakt gekommen sind bzw. betroffen sind* gibt es hier verschiedene Möglichkeiten bei welchen Sie sich melden können und Hilfe bekommen:
+Falls Sie selber betroffen sind, hier bekommen Sie Hilfe:
 
 * [Start - Opferhilfe Schweiz (opferhilfe-schweiz.ch)](https://www.opferhilfe-schweiz.ch/de/)
 * [Frauenhaus Bern (stiftung-gegen-gewalt.ch)](https://stiftung-gegen-gewalt.ch/wsp/de/fachstellen/frauenhaus-bern/)
 * [AppElle! – die 24h-Hotline der Berner Frauenhäuser (stiftung-gegen-gewalt.ch)](https://stiftung-gegen-gewalt.ch/wsp/de/appelle/)
 * [Zwueschehalt | Damit Mann weiss wohin](https://www.zwueschehalt.ch/)
+*
 
 {{</box>}}
