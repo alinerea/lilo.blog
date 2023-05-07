@@ -59,7 +59,7 @@ Nach der Geburt des zweiten Kindes ging sie mit dem Kind zur Kontrolle beim Kind
 Physische Gewalt umfasst alle körperlichen Angriffe, von (wiederholten) Tätlichkeiten bis zur Tötung. Dazu einige Beispiele:
 
 * Gegenstände nachwerfen
-* Stossen, packen, schütteln, beissen
+* Stossen, packen, schütteln, beissen, würgen
 * Ohrfeigen, Fusstritte, Faustschläge, Verprügeln
 * Waffen ziehen, mit Werkzeugen zuschlagen, mit Messer zustossen, schiessen
 
