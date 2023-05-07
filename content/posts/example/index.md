@@ -33,7 +33,7 @@ Studien zeigen, dass häusliche Gewalt häufig durch Eifersucht und das Verlange
 
 > «*Ich konnte die Sprache nicht lernen.*»
 
-Eine Drittperson gewährt Einblick in die Geschichte und Gefühle einer gewaltbetroffenen Frau. Sie beschreibt, dass sie vor drei Jahren ohne Sprachkenntnisse und ohne Geld in die Schweiz geholt wurde und sich ihr Leben mit der Geburt des ersten Kindes sehr verändert habe. «Vor der Geburt des zweiten Kindes überlegte ich lange, was ich für Möglichkeiten habe. Mein Mann war schon da gewalttätig und ich habe aber gewusst, ich habe niemanden hier. Ich habe keine Familie, keine Freunde, ich war auch immer drin, ich konnte die Sprache nicht lernen \[…]. Ich habe auch nicht gewusst, was es für Möglichkeiten gibt.» 
+*Eine Drittperson gewährt Einblick in die Geschichte und Gefühle einer gewaltbetroffenen Frau.* Sie beschreibt, dass sie vor drei Jahren ohne Sprachkenntnisse und ohne Geld in die Schweiz geholt wurde und sich ihr Leben mit der Geburt des ersten Kindes sehr verändert habe. «Vor der Geburt des zweiten Kindes überlegte ich lange, was ich für Möglichkeiten habe. Mein Mann war schon da gewalttätig und ich habe aber gewusst, ich habe niemanden hier. Ich habe keine Familie, keine Freunde, ich war auch immer drin, ich konnte die Sprache nicht lernen \[…]. Ich habe auch nicht gewusst, was es für Möglichkeiten gibt.» 
 
 {{<box>}}
 Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine ebenso ernsthafte Gefährdung dar. Darunter fallen beispielsweise:
