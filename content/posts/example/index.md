@@ -1,10 +1,10 @@
 +++
 title = "Unlebbares lesbar machen"
 date = "2023-05-05"
-draft = true
+draft = false
 pinned = false
 tags = ["Reportage", "DomesticViolence", "HäuslicheGewalt", "Frauenhaus"]
-image = ""
+image = "whatsapp-image-2023-05-07-at-12.12.27.jpeg"
 description = "Einblick in die Folgen von häuslicher und sexualisierter Gewalt. Eine Betroffene und eine Fachperson erzählen."
 footnotes = ""
 +++
