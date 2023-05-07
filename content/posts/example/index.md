@@ -88,5 +88,6 @@ Falls Sie selber betroffen sind, hier bekommen Sie Hilfe:
 * [Frauenhaus Bern (stiftung-gegen-gewalt.ch)](https://stiftung-gegen-gewalt.ch/wsp/de/fachstellen/frauenhaus-bern/)
 * [AppElle! – die 24h-Hotline der Berner Frauenhäuser (stiftung-gegen-gewalt.ch)](https://stiftung-gegen-gewalt.ch/wsp/de/appelle/)
 * [Zwueschehalt | Damit Mann weiss wohin](https://www.zwueschehalt.ch/)
+* [Startseite Schweizer Polizei](https://polizei.ch/)
 
 {{</box>}}
