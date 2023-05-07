@@ -5,13 +5,13 @@ draft = false
 pinned = false
 tags = ["Reportage", "DomesticViolence", "HäuslicheGewalt", "Frauenhaus"]
 image = "rea-bild_-reportage.jpg"
-description = "Einblick in die Folgen von häuslicher und sexualisierter Gewalt. Eine Betroffene und eine Fachperson erzählen."
+description = "Einblick in die Folgen von häuslicher und sexualisierter Gewalt: Eine Betroffene und eine Fachperson erzählen."
 footnotes = ""
 +++
 #### Häusliche und sexualisierte Gewalt
 
 {{<lead>}}
-Warum ist Gewalt so stark präsent in unserer heutigen Gesellschaft? Was sind die Ursachen? Wie können betroffene Personen Hilfe bekommen? Unter den Massnahmen von Covid-19 hat sich die Situation dramatisch verschlechtert. Dieser Artikel versucht ein Thema zugänglich zu machen, welches sich oftmals innerhalb der eigenen vier Wände versteckt hält.
+Warum ist Gewalt so stark präsent in unserer heutigen Gesellschaft? Was sind die Ursachen? Wie können betroffene Personen Hilfe bekommen? Dieser Artikel versucht ein Thema zugänglich zu machen, welches sich oftmals innerhalb der eigenen vier Wände versteckt hält.
 {{</lead>}}
 
 ![©️ Rea Kedves](rea-bild_-reportage-1-.jpg)
