@@ -82,7 +82,7 @@ Grundsätzlich ist es wichtig, die Wünsche und Entscheidungen der betroffenen P
 {{<box>}} 
 Was an dieser Stelle wichtig zu erwähnen ist: Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung genauso betroffen sein, jedoch kommt dies seltener vor, weswegen in dieser Reportage nur auf Frauen und Kinder Bezug genommen wurde. 
 
-Wenn Sie mit jeglicher Art dieser Gewalt in Kontakt gekommen sind bzw. betroffen sind gibt es hier verschiedene Möglichkeiten bei welchen Sie sich melden können und Hilfe bekommen:
+*Wenn Sie mit jeglicher Art dieser Gewalt in Kontakt gekommen sind bzw. betroffen sind* gibt es hier verschiedene Möglichkeiten bei welchen Sie sich melden können und Hilfe bekommen:
 
 * [Start - Opferhilfe Schweiz (opferhilfe-schweiz.ch)](https://www.opferhilfe-schweiz.ch/de/)
 * [Frauenhaus Bern (stiftung-gegen-gewalt.ch)](https://stiftung-gegen-gewalt.ch/wsp/de/fachstellen/frauenhaus-bern/)
