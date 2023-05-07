@@ -1,7 +1,7 @@
 +++
 title = "Unlebbares lesbar machen"
 date = "2023-05-05"
-draft = false
+draft = true
 pinned = false
 tags = ["Reportage", "DomesticViolence", "HäuslicheGewalt", "Frauenhaus"]
 image = "rea-bild_-reportage.jpg"
@@ -50,6 +50,8 @@ Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine
 * Ökonomische Gewalt (kein Haushaltungsgeld geben, nicht arbeiten lassen, Verdienst in Beschlag nehmen)
 
 {{</box>}}
+
+
 
 >  «*Es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.*»
 
