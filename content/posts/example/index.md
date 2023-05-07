@@ -76,9 +76,9 @@ Jede Person kann sich an die KESB wenden, wenn sie die Gefährdung eines Kindes 
 
 [Direktion für Inneres und Justiz - Startseite KESB (be.ch)](https://www.kesb.dij.be.ch/de/start.html)
 {{</box>}}
-Dasselbe gilt auch, wenn eine betroffene Person akut gefährdet ist, in dem Fall sollten die Polizei (117) oder der Notruf (144) informiert werden.
-
 Grundsätzlich ist es wichtig, die Wünsche und Entscheidungen der betroffenen Person zu respektieren. Auch wenn eine Person keine Hilfe annehmen möchte, sollte man das akzeptieren. Veränderungen brauchen Zeit und es ist wichtig, geduldig zu sein, damit sich die Betroffene mit der Situation auseinandersetzen kann. Das bedeutet nicht, die Person völlig sich selbst zu überlassen. Weiterhin Unterstützung anzubieten und für die Person da zu sein, ist auf jeden Fall wichtig.
+
+Wenn eine betroffene Person akut gefährdet ist, sollten die Polizei (117) oder der Notruf (144) informiert werden.
 {{<box>}} 
 Was an dieser Stelle wichtig zu erwähnen ist: Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung genauso betroffen sein, jedoch kommt dies seltener vor, weswegen in dieser Reportage nur auf Frauen und Kinder Bezug genommen wurde. 
 
