@@ -1,6 +1,6 @@
 +++
 title = "Unlebbares lesbar machen"
-date = "2023-05-05"
+date = "2023-05-08"
 draft = false
 pinned = false
 tags = ["Reportage", "DomesticViolence", "HäuslicheGewalt", "Frauenhaus"]
