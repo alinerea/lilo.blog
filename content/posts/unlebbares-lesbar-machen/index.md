@@ -80,7 +80,7 @@ Grundsätzlich ist es wichtig, die Wünsche und Entscheidungen der betroffenen P
 
 Wenn jemand akut gefährdet ist, sollten die Polizei (117) oder der Notruf (144) informiert werden.
 {{<box>}} 
-Was an dieser Stelle wichtig zu erwähnen ist: Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung genauso betroffen sein, jedoch kommt dies seltener vor, weswegen in dieser Reportage hauptsächlich auf Frauen und teils Kinder Bezug genommen wurde. 
+Was an dieser Stelle wichtig zu erwähnen ist: Männer können von Gewalt innerhalb einer bestehenden oder aufgelösten familiären, ehelichen oder eheähnlichen Beziehung genauso betroffen sein, jedoch kommt dies seltener vor, weswegen in dieser Reportage hauptsächlich auf Frauen und Kinder Bezug genommen wurde. 
 
 Falls Sie selber betroffen sind, hier bekommen Sie Hilfe:
 
