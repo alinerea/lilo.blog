@@ -11,7 +11,7 @@ footnotes = ""
 ### Häusliche und sexualisierte Gewalt
 
 {{<lead>}}
-Warum ist Gewalt in unserer heutigen Gesellschaft so präsent? Was sind die Ursachen? Wie können betroffene Personen Hilfe bekommen? Dieser Artikel versucht ein Thema zugänglich zu machen, welches sich oftmals innerhalb der eigenen vier Wände versteckt hält.
+Warum ist Gewalt in unserer heutigen Gesellschaft so präsent? Was sind die Ursachen? Wie können betroffene Personen Hilfe bekommen? Diese Reportage macht ein Thema zugänglich, welches sich oftmals innerhalb der privaten vier Wänden versteckt hält.
 {{</lead>}}
 
 ![Symbolbild ©️ Rea Kedves (2023)](rea-bild_-reportage-kleiner-.jpg)
