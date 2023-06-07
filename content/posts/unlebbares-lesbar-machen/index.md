@@ -36,7 +36,7 @@ Studien zeigen, dass häusliche Gewalt häufig durch Eifersucht und das Verlange
 Eine Drittperson gewährt Einblick in die Geschichte und Gefühle einer gewaltbetroffenen Frau, nennen wir sie Leyla. Sie beschreibt, dass sie vor drei Jahren ohne Sprachkenntnisse und ohne Geld in die Schweiz geholt wurde und sich ihr Leben mit der Geburt des ersten Kindes sehr verändert habe. «Vor der Geburt des zweiten Kindes überlegte ich lange, was ich für Möglichkeiten habe. Mein Mann war schon da gewalttätig und ich habe aber gewusst, ich habe niemanden hier. Ich habe keine Familie, keine Freunde, ich war auch immer drin, ich konnte die Sprache nicht lernen \[…]. Ich habe auch nicht gewusst, was es für Möglichkeiten gibt.» 
 
 {{<box>}}
-Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine ebenso ernsthafte Gefährdung dar. Darunter fallen beispielsweise:
+**Psychische Gewalt** bezieht sich auf nicht körperliche Angriffe, stellt aber eine ebenso ernsthafte Gefährdung dar. Darunter fallen beispielsweise:
 
 * Schwere Drohungen
 * Nötigung
@@ -50,7 +50,7 @@ Psychische Gewalt bezieht sich auf nicht körperliche Angriffe, stellt aber eine
 
 ##### Auswirkung der Covid-Pandemie auf häusliche und sexualisierte Gewalt
 
-Die COVID-19-Pandemie und die damit verbundenen Einschränkungen haben gemäss Fachpersonen zu einem Anstieg der häuslichen Gewalt geführt. Jedoch zeigen die Kriminalstatistiken des Kanton Berns keine signifikante Erhöhung von Gewalttaten im häuslichen Bereich. Dies liegt unter anderem daran, dass die Straftaten gemeldet und polizeilich registriert werden müssen. Die Schliessung von Schulen, Arbeitsplätzen und anderen öffentlichen Einrichtungen hat dazu geführt, dass Opfer von Gewalt häufig gezwungen waren, mit den Tätern auf engem Raum zusammenzuleben, was das Risiko von Gewalttaten erhöht hat. Gleichzeitig haben die wirtschaftlichen Auswirkungen der Pandemie bei einigen Menschen Stress und Unsicherheit verursacht.
+Die COVID-19-Pandemie und die damit verbundenen Einschränkungen haben gemäss Fachpersonen zu einem Anstieg der häuslichen Gewalt geführt. Jedoch zeigen die Kriminalstatistiken des Kanton Berns keine signifikante Erhöhung von Gewalttaten im häuslichen Bereich. Dies liegt unter anderem daran, dass die Straftaten gemeldet und polizeilich registriert werden müssten um in den Statistiken erfasst zu werden. Die Schliessung von Schulen, Arbeitsplätzen und anderen öffentlichen Einrichtungen hat dazu geführt, dass Opfer von Gewalt häufig gezwungen waren, mit den Tätern auf engem Raum zusammenzuleben, was das Risiko von Gewalttaten erhöht hat. Gleichzeitig haben die wirtschaftlichen Auswirkungen der Pandemie bei einigen Menschen Stress und Unsicherheit verursacht.
 
 >  «*Es ist schön, dass mein Kind jetzt andere Kinder zum Spielen hat und es spürt, dass wir hier in Sicherheit sind.*»
 
